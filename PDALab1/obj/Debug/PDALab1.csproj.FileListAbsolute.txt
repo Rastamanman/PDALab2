@@ -1,0 +1,7 @@
+C:\Users\Augu\source\repos\PDALab1\PDALab1\bin\Debug\PDALab1.exe.config
+C:\Users\Augu\source\repos\PDALab1\PDALab1\bin\Debug\PDALab1.exe
+C:\Users\Augu\source\repos\PDALab1\PDALab1\bin\Debug\PDALab1.pdb
+C:\Users\Augu\source\repos\PDALab1\PDALab1\obj\Debug\PDALab1.csprojResolveAssemblyReference.cache
+C:\Users\Augu\source\repos\PDALab1\PDALab1\obj\Debug\PDALab1.csproj.CoreCompileInputs.cache
+C:\Users\Augu\source\repos\PDALab1\PDALab1\obj\Debug\PDALab1.exe
+C:\Users\Augu\source\repos\PDALab1\PDALab1\obj\Debug\PDALab1.pdb
